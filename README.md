@@ -90,7 +90,7 @@ footer{text-align:center;color:var(--mu);font-size:13px;margin:30px 0 10px}
 <nav id="nav"></nav>
 </header>
 <main id="m">
-<div class="guide"><span class="k">(A)</span> 字母按鈕＝作答；<a class="w">洋紅色底線字</a>＝點一下查看字義、字根與發音（🔊 可朗讀）。答題後會出現詳解，每題都附難易度。</div>
+<div class="guide"><span class="k">(A)</span> 字母按鈕＝作答；<a class="w">滑鼠移到動單字若有黃底</a>＝點一下可以看字義、字根與發音（🔊 可朗讀）。答題後會出現詳解，每題都附難易度。</div>
 </main>
 <div id="pop" role="dialog" aria-live="polite"></div>
 <script>
